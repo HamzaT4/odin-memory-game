@@ -40,5 +40,6 @@
   "homepage": "http://HamzaT4.github.io/odin-memory-game",
   "devDependencies": {
     "gh-pages": "^5.0.0"
+    
   }
 }

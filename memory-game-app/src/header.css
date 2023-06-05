@@ -1,0 +1,6 @@
+header{
+    margin-bottom: 1rem;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}

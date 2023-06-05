@@ -1,0 +1,21 @@
+
+
+.cards-container{
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     row-gap: 2rem;
+}
+
+.card-div{
+    text-align: center;
+    color: aliceblue;
+    width: fit-content;
+    background-color: #1a1919;
+    border-radius: 15px;
+}
+img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+
